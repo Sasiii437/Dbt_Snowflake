@@ -1,0 +1,1 @@
+select * from RAW_S.JAFFLE_SHOP_S.CUSTOMERS
